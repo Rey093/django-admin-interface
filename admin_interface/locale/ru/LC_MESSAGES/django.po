@@ -38,11 +38,11 @@ msgstr "Иконка адресной строки"
 
 #: admin_interface/admin.py
 msgid "Title"
-msgstr "Заголовок"
+msgstr ""
 
 #: admin_interface/admin.py
 msgid "Header"
-msgstr "Шапка"
+msgstr ""
 
 #: admin_interface/admin.py
 msgid "Breadcrumbs / Module headers"

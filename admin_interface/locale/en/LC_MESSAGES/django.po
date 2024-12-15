@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: testfsfas\n"
 "X-Crowdin-Project-ID: 746261\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /[Rey093.django-admin-interface] develop/admin_interface/locale/pt_BR/LC_MESSAGES/django.po\n"
-"X-Crowdin-File-ID: 116\n"
+"X-Crowdin-File: /[Rey093.django-admin-interface] develop/admin_interface/locale/ru/LC_MESSAGES/django.po\n"
+"X-Crowdin-File-ID: 118\n"
 
 #: admin_interface/admin.py
 msgid "Environment"
@@ -158,7 +158,6 @@ msgid "Minimal Select"
 msgstr ""
 
 #: admin_interface/models.py
-#| msgid "Form Controls"
 msgid "control"
 msgstr ""
 
@@ -275,7 +274,6 @@ msgid "Themes"
 msgstr ""
 
 #: admin_interface/templates/admin/change_list.html
-#| msgid "List Filter"
 msgid "Filter"
 msgstr ""
 
@@ -315,7 +313,7 @@ msgstr ""
 
 #: admin_interface/templates/admin/filter.html
 #: admin_interface/templates/admin_interface/dropdown_filter.html
-#, python-format
+#| msgid " By %(filter_title)s "
 msgid " By %(filter_title)s "
 msgstr ""
 

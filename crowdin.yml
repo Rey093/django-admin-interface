@@ -1,3 +1,4 @@
 files:
-  - source: /admin_interface/locale/*/*/*.po
+  - source: /admin_interface/locale/en/*/*.po
     translation: /admin_interface/locale/%two_letters_code%/LC_MESSAGES/%original_file_name%
+    multilingual: 1

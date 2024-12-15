@@ -28,7 +28,7 @@ msgstr "Вид выбора языка"
 
 #: admin_interface/admin.py
 msgid "Logo"
-msgstr ""
+msgstr "Логотип"
 
 #: admin_interface/admin.py
 msgid "Favicon"

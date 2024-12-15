@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: newprojfd\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-17 07:09-0500\n"
-"PO-Revision-Date: 2024-12-15 10:46\n"
+"PO-Revision-Date: 2024-12-15 10:50\n"
 "Last-Translator: Ishak Okutan <ishak.oktn@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: admin_interface/admin.py
 msgid "Environment"
-msgstr "Окружение"
+msgstr "Окружка!"
 
 #: admin_interface/admin.py
 msgid "Language chooser"
@@ -40,7 +40,7 @@ msgstr "Заголовок"
 
 #: admin_interface/admin.py
 msgid "Header"
-msgstr ""
+msgstr "Заголовок"
 
 #: admin_interface/admin.py
 msgid "Breadcrumbs / Module headers"

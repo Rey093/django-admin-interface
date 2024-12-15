@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: newprojfd\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-17 07:09-0500\n"
-"PO-Revision-Date: 2024-12-15 10:52\n"
+"PO-Revision-Date: 2024-12-15 11:57\n"
 "Last-Translator: Ishak Okutan <ishak.oktn@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -132,7 +132,7 @@ msgstr "максимальная высота"
 
 #: admin_interface/models.py
 msgid "(.ico|.png|.gif - 16x16|32x32 px)"
-msgstr ""
+msgstr "(.ico|.png|.gif - 16x16|32x32 px)"
 
 #: admin_interface/models.py
 msgid "favicon"
@@ -319,7 +319,7 @@ msgstr "Удалить?"
 #: admin_interface/templates/admin_interface/dropdown_filter.html
 #, python-format
 msgid " By %(filter_title)s "
-msgstr ""
+msgstr " От %(filter_title)s "
 
 #: admin_interface/templates/admin/popup_response.html
 msgid "Popup closing..."

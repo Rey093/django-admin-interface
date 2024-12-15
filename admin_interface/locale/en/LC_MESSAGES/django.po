@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: testfsfas\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-17 07:09-0500\n"
-"PO-Revision-Date: 2024-12-15 10:07\n"
+"PO-Revision-Date: 2024-12-15 10:17\n"
 "Last-Translator: Ishak Okutan <ishak.oktn@gmail.com>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -15,24 +15,24 @@ msgstr ""
 "X-Crowdin-Project: testfsfas\n"
 "X-Crowdin-Project-ID: 746261\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /[Rey093.django-admin-interface] develop/admin_interface/locale/tr/LC_MESSAGES/django.po\n"
-"X-Crowdin-File-ID: 120\n"
+"X-Crowdin-File: /[Rey093.django-admin-interface] develop/admin_interface/locale/en/LC_MESSAGES/django.po\n"
+"X-Crowdin-File-ID: 132\n"
 
 #: admin_interface/admin.py
 msgid "Environment"
-msgstr ""
+msgstr "Окружение"
 
 #: admin_interface/admin.py
 msgid "Language chooser"
-msgstr ""
+msgstr "Вид выбора языка"
 
 #: admin_interface/admin.py
 msgid "Logo"
-msgstr ""
+msgstr "Логотип"
 
 #: admin_interface/admin.py
 msgid "Favicon"
-msgstr ""
+msgstr "Иконка адресной строки"
 
 #: admin_interface/admin.py
 msgid "Title"
@@ -44,91 +44,91 @@ msgstr ""
 
 #: admin_interface/admin.py
 msgid "Breadcrumbs / Module headers"
-msgstr ""
+msgstr "Шапки модулей"
 
 #: admin_interface/admin.py
 msgid "Generic Links"
-msgstr ""
+msgstr "Общие ссылки"
 
 #: admin_interface/admin.py
 msgid "Save Buttons"
-msgstr ""
+msgstr "Кнопки сохранения"
 
 #: admin_interface/admin.py
 msgid "Delete Buttons"
-msgstr ""
+msgstr "Кнопки удаления"
 
 #: admin_interface/admin.py
 msgid "Navigation Bar"
-msgstr ""
+msgstr "Строка навигации"
 
 #: admin_interface/admin.py
 msgid "Related Modal"
-msgstr ""
+msgstr "Модаль для связанных объектов"
 
 #: admin_interface/admin.py
 msgid "Form Controls"
-msgstr ""
+msgstr "Управление формами"
 
 #: admin_interface/admin.py
 msgid "List Filter"
-msgstr ""
+msgstr "Вид списка фильтров"
 
 #: admin_interface/admin.py
 msgid "Change Form"
-msgstr ""
+msgstr "Вид формы изменения"
 
 #: admin_interface/admin.py
 msgid "Inlines"
-msgstr ""
+msgstr "Вид вставок"
 
 #: admin_interface/admin.py
 msgid "Recent Actions"
-msgstr ""
+msgstr "Недавние действия"
 
 #: admin_interface/apps.py
 msgid "Admin Interface"
-msgstr ""
+msgstr "Интерфейс администрирования"
 
 #: admin_interface/models.py
 msgid "name"
-msgstr ""
+msgstr "название"
 
 #: admin_interface/models.py
 msgid "active"
-msgstr ""
+msgstr "активный"
 
 #: admin_interface/models.py admin_interface/templates/admin/base_site.html
 msgid "Django administration"
-msgstr ""
+msgstr "Администрирование Django"
 
 #: admin_interface/models.py
 msgid "title"
-msgstr ""
+msgstr "заголовок"
 
 #: admin_interface/models.py
 msgid "color"
-msgstr ""
+msgstr "цвет"
 
 #: admin_interface/models.py
 msgid "visible"
-msgstr ""
+msgstr "видимый"
 
 #: admin_interface/models.py
 msgid "Leave blank to use the default Django logo"
-msgstr ""
+msgstr "Оставьте пустым, чтобы по умолчанию использовать логотип Django"
 
 #: admin_interface/models.py
 msgid "logo"
-msgstr ""
+msgstr "логотип"
 
 #: admin_interface/models.py
 msgid "max width"
-msgstr ""
+msgstr "максимальная ширина"
 
 #: admin_interface/models.py
 msgid "max height"
-msgstr ""
+msgstr "максимальная высота"
 
 #: admin_interface/models.py
 msgid "(.ico|.png|.gif - 16x16|32x32 px)"
@@ -136,150 +136,150 @@ msgstr ""
 
 #: admin_interface/models.py
 msgid "favicon"
-msgstr ""
+msgstr "иконка в адресной строке"
 
 #: admin_interface/models.py
 msgid "(red: #E74C3C, orange: #E67E22, yellow: #F1C40F, green: #2ECC71, blue: #3498DB)"
-msgstr ""
+msgstr "(красный: #E74C3C, оранжевый: #E67E22, желтый: #F1C40F, зеленый: #2ECC71, синий: #3498DB"
 
 #: admin_interface/models.py
 msgid "visible in header (marker and name)"
-msgstr ""
+msgstr "видимый в шапке (метка и название)"
 
 #: admin_interface/models.py
 msgid "visible in favicon (marker)"
-msgstr ""
+msgstr "видимый в иконке адресной строки (метка)"
 
 #: admin_interface/models.py
 msgid "Default Select"
-msgstr ""
+msgstr "Выбор по умолчанию"
 
 #: admin_interface/models.py
 msgid "Minimal Select"
-msgstr ""
+msgstr "Минимальный выбор"
 
 #: admin_interface/models.py
 msgid "control"
-msgstr ""
+msgstr "контроль"
 
 #: admin_interface/models.py
 msgid "code"
-msgstr ""
+msgstr "код"
 
 #: admin_interface/models.py
 msgid "display"
-msgstr ""
+msgstr "отображение"
 
 #: admin_interface/models.py
 msgid "background color"
-msgstr ""
+msgstr "цвет заднего фона"
 
 #: admin_interface/models.py
 msgid "text color"
-msgstr ""
+msgstr "цвет текста"
 
 #: admin_interface/models.py
 msgid "link color"
-msgstr ""
+msgstr "цвет ссылки"
 
 #: admin_interface/models.py
 msgid "link hover color"
-msgstr ""
+msgstr "цвет ссылки при наведении"
 
 #: admin_interface/models.py
 #| msgid "background color"
 msgid "background selected color"
-msgstr ""
+msgstr "цвет заднего фона выбранного объекта"
 
 #: admin_interface/models.py
 #| msgid "link color"
 msgid "link selected color"
-msgstr ""
+msgstr "цвет ссылки выбранного объекта"
 
 #: admin_interface/models.py
 msgid "rounded corners"
-msgstr ""
+msgstr "закругленные края"
 
 #: admin_interface/models.py
 msgid "link active color"
-msgstr ""
+msgstr "цвет активной ссылки"
 
 #: admin_interface/models.py
 msgid "background hover color"
-msgstr ""
+msgstr "цвет заднего фона при наведении"
 
 #: admin_interface/models.py
 msgid "background opacity"
-msgstr ""
+msgstr "прозрачность заднего фона"
 
 #: admin_interface/models.py
 msgid "close button visible"
-msgstr ""
+msgstr "видимость кнопки закрытия"
 
 #: admin_interface/models.py
 msgid "highlight active"
-msgstr ""
+msgstr "подсвечивать активное"
 
 #: admin_interface/models.py
 msgid "use dropdown"
-msgstr ""
+msgstr "использовать выпадающий список"
 
 #: admin_interface/models.py
 msgid "sticky position"
-msgstr ""
+msgstr "устойчивое положение"
 
 #: admin_interface/models.py
 msgid "quick remove links for active filters at top of sidebar"
-msgstr ""
+msgstr "быстро удалять ссылки для активных фильтров сверху боковой панели"
 
 #: admin_interface/models.py
 msgid "foldable apps"
-msgstr ""
+msgstr "складные приложения"
 
 #: admin_interface/models.py
 msgid "fieldsets as tabs"
-msgstr ""
+msgstr "набор полей в виде вкладок"
 
 #: admin_interface/models.py
 msgid "inlines as tabs"
-msgstr ""
+msgstr "вставки как вкладки"
 
 #: admin_interface/models.py
 msgid "collapsible stacked inlines"
-msgstr ""
+msgstr "разборные уложенные вставки"
 
 #: admin_interface/models.py
 msgid "collapsible stacked inlines collapsed"
-msgstr ""
+msgstr "сворачивающиеся уложенные вкладки свернуты"
 
 #: admin_interface/models.py
 msgid "collapsible tabular inlines"
-msgstr ""
+msgstr "сворачивающиеся табличные вставки"
 
 #: admin_interface/models.py
 msgid "collapsible tabular inlines collapsed"
-msgstr ""
+msgstr "сворачивающиеся табличные вставки свернуты"
 
 #: admin_interface/models.py
 msgid "sticky submit"
-msgstr ""
+msgstr "устойчивая отправка"
 
 #: admin_interface/models.py
 msgid "sticky pagination"
-msgstr ""
+msgstr "устойчивая разбивка"
 
 #: admin_interface/models.py
 msgid "Theme"
-msgstr ""
+msgstr "Тема"
 
 #: admin_interface/models.py
 msgid "Themes"
-msgstr ""
+msgstr "Темы"
 
 #: admin_interface/templates/admin/change_list.html
 #| msgid "List Filter"
 msgid "Filter"
-msgstr ""
+msgstr "Фильтр"
 
 #. Translators: don't translate this, the django catalog already contains it
 #: admin_interface/templates/admin/change_list.html
@@ -294,26 +294,26 @@ msgstr ""
 #. Translators: don't translate this, the django catalog already contains it
 #: admin_interface/templates/admin/change_list.html
 msgid "Clear all filters"
-msgstr ""
+msgstr "Очистить все фильтры"
 
 #: admin_interface/templates/admin/edit_inline/headerless_stacked.html
 #: admin_interface/templates/admin/edit_inline/headerless_tabular.html
 msgid "Change"
-msgstr ""
+msgstr "Изменить"
 
 #: admin_interface/templates/admin/edit_inline/headerless_stacked.html
 #: admin_interface/templates/admin/edit_inline/headerless_tabular.html
 msgid "View"
-msgstr ""
+msgstr "Посмотреть"
 
 #: admin_interface/templates/admin/edit_inline/headerless_stacked.html
 #: admin_interface/templates/admin/edit_inline/headerless_tabular.html
 msgid "View on site"
-msgstr ""
+msgstr "Посмотреть на сайте"
 
 #: admin_interface/templates/admin/edit_inline/headerless_tabular.html
 msgid "Delete?"
-msgstr ""
+msgstr "Удалить?"
 
 #: admin_interface/templates/admin/filter.html
 #: admin_interface/templates/admin_interface/dropdown_filter.html
@@ -323,5 +323,5 @@ msgstr ""
 
 #: admin_interface/templates/admin/popup_response.html
 msgid "Popup closing..."
-msgstr ""
+msgstr "Закрытие всплывающего окна..."
 

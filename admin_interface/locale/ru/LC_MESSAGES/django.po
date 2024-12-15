@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: testfsfas\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-17 07:09-0500\n"
-"PO-Revision-Date: 2024-12-15 10:16\n"
+"PO-Revision-Date: 2024-12-15 10:35\n"
 "Last-Translator: Ishak Okutan <ishak.oktn@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -36,7 +36,7 @@ msgstr "Иконка адресной строки"
 
 #: admin_interface/admin.py
 msgid "Title"
-msgstr ""
+msgstr "Заголовок"
 
 #: admin_interface/admin.py
 msgid "Header"

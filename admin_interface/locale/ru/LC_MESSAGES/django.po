@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: newprojfd\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-17 07:09-0500\n"
-"PO-Revision-Date: 2024-12-15 10:50\n"
+"PO-Revision-Date: 2024-12-15 10:52\n"
 "Last-Translator: Ishak Okutan <ishak.oktn@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -284,7 +284,7 @@ msgstr "Фильтр"
 #. Translators: don't translate this, the django catalog already contains it
 #: admin_interface/templates/admin/change_list.html
 msgid "Hide counts"
-msgstr ""
+msgstr "Спрятано"
 
 #. Translators: don't translate this, the django catalog already contains it
 #: admin_interface/templates/admin/change_list.html

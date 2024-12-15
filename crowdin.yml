@@ -1,3 +1,3 @@
 files:
   - source: /admin_interface/locale/*/*/*.po
-    translation: /admin_interface/locale/%two_letters_code%/LC_MESSAGES/%original_file_name%.mo
+    translation: /admin_interface/locale/%two_letters_code%/LC_MESSAGES/%original_file_name%

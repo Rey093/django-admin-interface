@@ -20,7 +20,7 @@ msgstr ""
 
 #: admin_interface/admin.py
 msgid "Environment"
-msgstr "Окружение"
+msgstr "Окружка!"
 
 #: admin_interface/admin.py
 msgid "Language chooser"
